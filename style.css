@@ -1,6 +1,6 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #f3f4f5;
+  background-color: #ffffff;
 }
 
 #about {
@@ -8,7 +8,7 @@
 }
 
 #projects {
-  background-color: #f3f4f5;
+  background-color: #ffffff;
 }
 
 #contact {
@@ -17,4 +17,12 @@
 
 section {
   padding-top: 5rem;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
 }
